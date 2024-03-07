@@ -60,6 +60,9 @@ if(checkbox.checked)
 })
 
 
+most important hthing if your code is not working then do console.log and find what is not working 
+
+
 
 
 
