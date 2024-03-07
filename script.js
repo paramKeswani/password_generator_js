@@ -25,21 +25,21 @@ var symbols = document.getElementById('symbols');
 var symbolstf = false;
 var count = 0;
 
-initialstate();
+// initialstate();
 backgroundcolor();
 
 // this is the new thing u are learning 
-function initialstate()
-{
+// function initialstate()
+// {
 
-    slider.value = 10;
-    slider.innerHTML = slider.value;
-    upper.checked = true;
+//     slider.value = 10;
+//     slider.innerHTML = slider.value;
+//     upper.checked = true;
 
 
 
     
-}
+// }
 
 function backgroundcolor()
 {

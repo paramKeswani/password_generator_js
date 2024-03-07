@@ -15,6 +15,51 @@ yuou can do something like
 
 make a function and call it it elese you would alwayys have to call the addeventlistemnera nd all 
 
+another way of finding random character using 
+
+
+function generateLowerCase(){
+    return String.fromCharCode(getRndinteger(97,123));
+}
+
+api is communication between 2 softwares 
+
+async 
+await 
+api 
+
+css active 
+
+setTiemout(
+    ()=>{
+
+    },2000
+);
+
+onclick and addeventListner do the same thing 
+
+e.target.value
+e.target
+
+
+const allCheckBox = document.quesrySelectorAll('input[type=checkbox]');
+
+iin tis what all contain checkbox all willl come in the form of llist in this variale 
+
+allCheckBox.forEach((checkbox)=>
+{
+    checkbox.addEventListner('change',function(){
+
+if(checkbox.checked)
+{
+    checkcount++;
+
+}
+    })
+
+})
+
+
 
 
 
