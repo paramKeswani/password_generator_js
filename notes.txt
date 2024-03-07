@@ -1,0 +1,20 @@
+learn about custom atttributes 
+
+query selectors
+const inputslider = document.querySelector('[data-lengthSlider]');
+
+syntax for query-selector and how to fetch that 
+
+queryselctorall is used for getting all the checked boxes
+
+calculate strength
+
+
+yuou can do something like 
+
+
+make a function and call it it elese you would alwayys have to call the addeventlistemnera nd all 
+
+
+
+
